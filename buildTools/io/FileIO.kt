@@ -1,4 +1,4 @@
-package buildTools.io
+package buildTools.io.FileIO
 
 class FileIO {
     companion object {
